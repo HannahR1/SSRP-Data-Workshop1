@@ -1,0 +1,2 @@
+#ignore files with the .dat ending
+*.dat
